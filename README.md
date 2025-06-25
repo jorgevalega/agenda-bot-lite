@@ -26,13 +26,12 @@ Agenda simples com integração futura para WhatsApp. Desenvolvida em Python e F
 ```bash
 agenda-bot-lite/
 ├── app/
-│   └── audio/
-│       ├── core/
-│       ├── services/
-│       ├── database/
-│       ├── web/
-│       ├── verificador_de_tarefas.py
-│       └── config.py
+│   ├── core/
+│   ├── services/
+│   ├── database/
+│   ├── web/
+│   ├── verificador_de_tarefas.py
+│   └── config.py
 ├── static/
 ├── templates/
 ├── requirements.txt
