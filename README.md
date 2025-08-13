@@ -21,9 +21,15 @@ Você pode acessar e testar a agenda diretamente em:
 ---
 
 ## 🚀 Funcionalidades
-- Registro de tarefas com data e hora.
-- Verificação a cada 10 minutos com notificações.
-- Painel web simples.
+
+- ✅ Cadastro automático de usuários via comando `/registrarse`
+- ✍️ Criação de lembretes com horário, diretamente pelo celular usando `/novo`
+- 📆 Visualização de lembretes em uma interface web responsiva
+- 🔔 Envio automático das mensagens no horário agendado
+- 🗑️ Exclusão rápida com botão de lixeira
+- 🎨 Destaque visual para lembretes já enviados
+- 📱 Interface otimizada para dispositivos móveis
+- ♻️ Exclusão automática de lembretes antigos, mantendo os 5 últimos enviados
 
 ---
 
