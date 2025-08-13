@@ -35,8 +35,9 @@ Você pode acessar e testar a agenda diretamente em:
 
 ## 📸 Capturas de Tela
 
-![Agenda de Lembretes](assets/agenda.png)
-![Botão de Excluir](assets/excluir.png)
+![Agenda de Lembretes](assets/agenda.jpg)
+
+![Botão de Excluir](assets/excluir.jpg)
 
 ---
 
