@@ -33,6 +33,13 @@ Você pode acessar e testar a agenda diretamente em:
 
 ---
 
+## 📸 Capturas de Tela
+
+![Agenda de Lembretes](assets/agenda.png)
+![Botão de Excluir](assets/excluir.png)
+
+---
+
 ## Como usar
 1. Configure o banco MariaDB.
 2. Instale as dependências com `pip install -r requirements.txt`.
