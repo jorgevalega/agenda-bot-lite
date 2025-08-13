@@ -18,13 +18,12 @@ Você pode acessar e testar a agenda diretamente em:
 - 🇪🇸 [Versión en Español](https://github.com/jorgevalega/agendas)
 - 🇺🇸 [English Version](https://github.com/jorgevalega/educational-game)
 
+---
 
-## Funcionalidades
+## 🚀 Funcionalidades
 - Registro de tarefas com data e hora.
 - Verificação a cada 10 minutos com notificações.
 - Painel web simples.
-- Limite de 15 tarefas por usuário (modo gratuito).
-- Área administrativa para controle de acesso.
 
 ---
 
