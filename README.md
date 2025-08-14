@@ -41,6 +41,22 @@ Você pode acessar e testar a agenda diretamente em:
 
 ---
 
+## 🛠️ Instalação
+
+**1. Pré-requisitos**  
+- Python 3.8 ou superior  
+- MySQL ou MariaDB  
+- Servidor com suporte a `cron` (Linux)
+
+**2. Clone o repositório**
+
+```bash
+git clone https://github.com/jorgevalega/lembretes-telegram.git
+cd lembretes-telegram
+```
+
+---
+
 ## Como usar
 1. Configure o banco MariaDB.
 2. Instale as dependências com `pip install -r requirements.txt`.
